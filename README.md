@@ -7,7 +7,6 @@ Currently, I'm watching courses on development with Node.js 🚀, machine learni
 
 I'm also very interested in the fascinating world of cybersecurity 🔒. I've already studied basic concepts such as authentication 🔑, integrity 🔐, and availability 🕒, and have hands-on experience with hashes, keys, Diffie-Hellman algorithm and learned effective tactics to prevent and mitigate different kind of vulnerabilities like DDoS attacks.
 
-I believe that my skills and experience make me a valuable contributor to any team, and I'm excited to take on new challenges and opportunities in this field!
 
 [![jcacerescc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcacerescc&count_private=true&show_icons=true&theme=radical&hide=prs,issues,stars&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true)](https://github.com/jcacerescc)
 
