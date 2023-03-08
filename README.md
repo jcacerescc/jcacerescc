@@ -9,4 +9,7 @@ I'm also very interested in the fascinating world of cybersecurity 🔒. I've al
 
 I believe that my skills and experience make me a valuable contributor to any team, and I'm excited to take on new challenges and opportunities in this field!
 
+[![jcacerescc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcacerescc&count_private=true&show_icons=true&theme=radical&hide=prs,issues,stars&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true)](https://github.com/jcacerescc)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcacerescc&layout=compact&langs_count=20&hide_border=true&hide_title=true&card_width=350)](https://github.com/jcacerescc)
 
